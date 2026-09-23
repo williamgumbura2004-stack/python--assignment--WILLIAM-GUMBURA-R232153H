@@ -1,10 +1,10 @@
 # Dictionary containing five students and their marks
 students = {
-    "Chiko": 75,
-    "Jila": 82,
-    "Ano": 68,
-    "Cory": 91,
-    "Lawrence": 79
+    "William": 88,
+    "Tadiwa": 75,
+    "David": 92,
+    "Billy": 64,
+    "Mellisa": 79
 }
 
 # Display all students and their marks
